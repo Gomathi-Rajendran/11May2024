@@ -1,1 +1,2 @@
 Created new file to text pull command
+checking fetch command
